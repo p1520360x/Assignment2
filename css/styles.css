@@ -1,0 +1,12 @@
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	font-family: sans-serif, verdana, arial, helvetica ;
+	font-size: medium;
+	line-height: 1em;
+	background: blue;
+	border: 0.1em solid green; 
+}
