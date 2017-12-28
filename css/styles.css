@@ -12,7 +12,7 @@ html{
 	left: 0;
 }
 
-.content{
+.content-index{
 	position: absolute;
 	width: 100%;
 	min-height: 100%;
@@ -22,7 +22,7 @@ html{
 	background-color: rgba(0,0,0,0.3);
 }
 
-.content h1{
+.content-index h1{
 	text-align: center;
 	font-size: 85px;
 	text-transform: uppercase;
@@ -32,7 +32,7 @@ html{
 	margin-bottom: 10px;
 }
 
-.content p{
+.content-index p{
 	text-align: center;
 	font-size: 20px;
 	letter-spacing: 3px;
@@ -47,7 +47,15 @@ html{
 	min-width: 100%;
 }
 
-.content p button {
+#video-audi{
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	min-width: 100%;
+}
+
+.content-index p button {
   border-radius: 10px;
   background-color: rgba(0,0,0,0.3);
   border: 0.08em solid white;
@@ -61,14 +69,14 @@ html{
   margin: 5px;
 }
 
-.content p button span {
+.content-index p button span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
 
-.content p button span:after {
+.content-index p button span:after {
   content: '\00bb';
   position: absolute;
   opacity: 0;
@@ -77,11 +85,11 @@ html{
   transition: 0.5s;
 }
 
-.content p button:hover span {
+.content-index p button:hover span {
   padding-right: 25px;
 }
 
-.content p button:hover span:after {
+.content-index p button:hover span:after {
   opacity: 1;
   right: 0;
 }
