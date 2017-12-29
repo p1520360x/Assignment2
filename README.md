@@ -25,5 +25,3 @@
 # API Used
 ## Google fonts
 ## Google Maps
-
-https://github.com/p1520360x/Assignment2/blob/master/screendesign/validation.jpg?raw=true
