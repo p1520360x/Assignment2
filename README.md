@@ -8,10 +8,10 @@
 # Navigation Structure
 ![Screenshot]https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Navigation.PNG
 # Screen Designs
-![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Home.PNG :homepage
-![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Index.PNG :indexpage
-![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Gallery.PNG :gallerypage
-![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Contact-Us.PNG :contact-uspage
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Home.PNG :SD_Home
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Index.PNG :SD_Index
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Gallery.PNG :SD_Gallery
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Contact-Us.PNG :SD_Contact-Us
 
 # Test Plan
 ![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Testplan_1.PNG
