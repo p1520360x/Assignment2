@@ -3,7 +3,7 @@
 # Website Link
 
 # W3 Validator
-![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/screendesign/validation.jpg)
+![Screenshot] (https://raw.githubusercontent.com/p1520360x/Assignment2/master/screendesign/validation.jpg)
 # Navigation Structure
 ![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/screendesign/nav.jpg)
 # Screen Designs
@@ -30,7 +30,4 @@
 ## Google fonts
 ## Google Maps
 
-https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Navigation.jpg
-https://github.com/p1520360x/Assignment2/tree/master/Screen_Designs
-https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/sdgallery.jpg
-https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/validation.jpg?raw=true
+https://github.com/p1520360x/Assignment2/blob/master/screendesign/validation.jpg?raw=true
