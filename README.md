@@ -3,11 +3,11 @@
 # Website Link
 
 # W3 Validator
-![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/validation.jpg)
+![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/validation.jpg?raw=true)
 # Navigation Structure
 ![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/nav.jpg)
 # Screen Designs
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdhome.jpg) :sdhome
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdhome.jpg) :sdhome 
 ![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdindex.jpg) :sdindex
 ![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdgallery.jpg) :sdgallery
 ![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/contactus.jpg) :contactus
@@ -31,3 +31,6 @@
 ## Google Maps
 
 https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Navigation.jpg
+https://github.com/p1520360x/Assignment2/tree/master/Screen_Designs
+https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/sdgallery.jpg
+https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/validation.jpg?raw=true
