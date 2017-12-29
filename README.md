@@ -3,7 +3,7 @@
 #Website Link
 
 W3 Validator
-
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Validator.PNG
 
 #Navigation Structure
 ![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Navigation.PNG
@@ -18,6 +18,7 @@ W3 Validator
 ![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Testplan_2.PNG
 
 #References
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/References.PNG
 
 #Animation Used
 ##Roll over text
