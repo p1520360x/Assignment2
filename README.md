@@ -4,11 +4,18 @@
 
 W3 Validator
 
-#Navigation Structure
 
+#Navigation Structure
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Navigation.PNG
 #Screen Designs
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Home.PNG
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Index.PNG
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Gallery.PNG
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/SD_Contact-Us.PNG
 
 #Test Plan
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Testplan_1.PNG
+![Screenshot] https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/Testplan_2.PNG
 
 #References
 
