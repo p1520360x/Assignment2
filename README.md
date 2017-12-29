@@ -3,21 +3,21 @@
 # Website Link
 
 # W3 Validator
-![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/validation.jpg?raw=true)
+![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/screendesign/validation.jpg)
 # Navigation Structure
-![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/Screen_Designs/nav.jpg)
+![Screenshot] (https://github.com/p1520360x/Assignment2/blob/master/screendesign/nav.jpg)
 # Screen Designs
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdhome.jpg) :sdhome 
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdindex.jpg) :sdindex
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdgallery.jpg) :sdgallery
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/contactus.jpg) :contactus
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/screendesign/sdhome.jpg) :sdhome 
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/screendesign/sdindex.jpg) :sdindex
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/screendesign/sdgallery.jpg) :sdgallery
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/screendesign/contactus.jpg) :contactus
 
 # Test Plan
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/testplan1.jpg)
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/testplan2.jpg)
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/screendesign/testplan1.jpg)
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/screendesign/testplan2.jpg)
 
 # References
-![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/References.jpg)
+![Screenshot] (https://github.com/p1520360x/Assignment2/raw/master/screendesign/References.jpg)
 
 # Animation Used
 
