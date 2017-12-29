@@ -3,22 +3,22 @@
 # Website Link
 
 # W3 Validator
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Validator.PNG
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Validator.jpg
 
 # Navigation Structure
-![Screenshot]https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Navigation.PNG
+![Screenshot]https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Navigation.jpg
 # Screen Designs
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Home.PNG :SD_Home
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Index.PNG :SD_Index
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Gallery.PNG :SD_Gallery
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Contact-Us.PNG :SD_Contact-Us
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Home.jpg :SD_Home
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Index.jpg :SD_Index
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Gallery.jpg :SD_Gallery
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/SD_Contact-Us.jpg:SD_Contact-Us
 
 # Test Plan
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Testplan_1.PNG
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Testplan_2.PNG
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Testplan_1.jpg
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Testplan_2.jpg
 
 # References
-![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/References.PNG
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/References.jpg
 
 # Animation Used
 
