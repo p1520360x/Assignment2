@@ -6,7 +6,7 @@
 ![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/validation.jpg
 
 # Navigation Structure
-![Screenshot]https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Navigation.jpg
+![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/Navigation.jpg
 # Screen Designs
 ![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdhome.jpg :SD_Home
 ![Screenshot] https://github.com/p1520360x/Assignment2/raw/master/Screen_Designs/sdindex.jpg :SD_Index
