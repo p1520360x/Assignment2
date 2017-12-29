@@ -7,4 +7,4 @@ De Montfort University
 p1520360x/Assignment2
 
 https://github.com/p1520360x/Assignment2 :Repository Link
-:Website Link
+https://p1520360x.github.io/Assignment2/INDEX.html:Website Link
