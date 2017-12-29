@@ -15,7 +15,7 @@
 ![Screenshot](https://github.com/p1520360x/Assignment2/raw/master/screendesign/testplan1.jpg)
 ![Screenshot](https://github.com/p1520360x/Assignment2/raw/master/screendesign/testplan2.jpg)
 # References
-![Screenshot](https://github.com/p1520360x/Assignment2/raw/master/screendesign/References.jpg)
+![Screenshot](https://github.com/p1520360x/Assignment2/raw/master/screendesign/hreferences.jpg)
 
 # Animation Used
 ## Roll over text
